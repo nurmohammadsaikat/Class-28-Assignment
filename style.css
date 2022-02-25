@@ -1,0 +1,111 @@
+.logoo{
+    width: 75px;
+}
+.banner{
+    height: 400px;
+    background-color: #F9F9FF!important;
+}
+.banner-img{
+    height: 400px;
+}
+.banner-left h4{
+    font-weight: 400!important;
+    margin: 10px 0;
+}
+.banner-left h2{
+    font-size: 38px;
+    margin: 20px 0;
+}
+.banner-right{
+    margin-left: 50px!important;
+}
+.banner-right h6{
+    font-weight: 400!important;
+    margin: 10px 0;
+}
+.banner-right h3{
+    font-size: 37px;
+    margin: 17px 0;
+}
+.banner-right p {
+    font-size: 16px!important;
+}
+.counter h2{
+    font-size: 35px;
+    font-weight: 700;
+}
+.testomonial{
+    background-color:#fff;
+}
+
+.section-color {
+    background-color: #8490FF;
+}
+
+.card-section {
+    background-color: #F9F9FF;
+}
+.testomonial-butten button {
+    width: 120px;
+    height: 45px;
+    display: inline-block;
+}
+.testomonial-content h2{
+    width: 100px;
+    height: 100px ;
+    border-radius: 50%;
+    margin: 0 auto;
+    background-color: #f9f9ff ;
+    line-height: 100px ;
+    
+
+  
+}
+
+.testomonial-butten{
+    margin-top: 57px;
+}
+.testomonial-content h2{}
+.testomonial-content h3{
+    font-weight: 400!important;
+    margin: 12px 0;
+}
+.testomonial-content h4{
+    font-weight: 400!important;
+    font-size: 26px;
+}
+.team-content button{
+    margin-bottom: 10px;
+    
+}
+.testomonial-content p{
+    margin: 24px;
+    font-size: 19px;
+}
+.team-img img{
+    width: 80px!important;
+}
+.personalimg img{
+    width: 100%!important;
+}
+.team-img {
+    position: relative;
+    bottom: 30px;
+    left: 19px;
+}
+.forem{
+    background-color: #f9fafff1;
+}
+.fromm {
+    background-color: #fff;
+    margin-bottom: 50px;
+}
+.fromm h4 {
+    font-size: 24px;
+    font-weight: 400;
+}
+footer {
+    background-color: #04091e;
+    padding: 0px 0;
+    line-height: 70px;
+}

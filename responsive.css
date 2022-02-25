@@ -1,0 +1,99 @@
+/* <-----------------------Screen = B/w 576px Start-----------------------> */
+/* Banner Section Statr */
+@media (max-width:576px) {
+    .banner-img {
+        height: auto;
+        width: 264px;
+    }
+
+    .lead {
+        font-size: 15px !important;
+    }
+
+    .banner-left h2 {
+        font-size: 30px;
+    }
+
+    .banner {
+        height: 336px;
+    }
+}
+/* Banner Section End */
+
+/* Personal Section Start */
+@media (max-width:576px) {
+    .banner-right {
+        margin-top: 38px;
+        text-align: center;
+    }
+}
+/* Personal Section End */
+
+/* Testimonial Section Start */
+@media (max-width:576px) {
+    .testominal-header p {
+        font-size: 13px;
+        font-weight: 600;
+        color: #666;
+    }
+}
+/* Testimonial Section End */
+
+/* Team Section Start */
+@media (max-width:768px) {
+    .top-55-box {
+        margin-top: 55px;
+    }
+}
+/* Team Section End */
+
+/* Testimonial Section Start */
+@media (max-width:576px) {
+    .width-sm-50 {
+        font-size: 13px;
+        font-weight: 500;
+    }
+}
+/* Testimonial Section End */
+
+
+/* <-----------------------Screen = B/w 576px End-----------------------> */
+
+
+/* <-----------------------Screen = B/w 768px Start-----------------------> */
+
+/* Personal Section Start */
+@media (max-width:768px) {
+    .personalimg img {
+        margin-top: 102px;
+    }
+}
+/* Personal Section End */
+
+/* Team Section Start */
+@media (max-width:768px) {
+    .team-top-margin {
+        margin-top: 55px;
+    }
+}
+/* Team Section End */
+
+/* <-----------------------Screen = B/w 768px End-----------------------> */
+
+/* <-----------------------Screen = B/w 992px Start-----------------------> */
+
+/* Team Section Start */
+@media (max-width: 992px) {
+    .team-top-margin {
+        margin-top: 55px;
+    }
+}
+/* Team Section End */
+
+/* <-----------------------Screen = B/w 992px End-----------------------> */
+
+@media (max-width:575px) {
+    .row > * {
+        width: 50%;
+    }
+}
