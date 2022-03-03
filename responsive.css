@@ -78,6 +78,12 @@
 }
 /* Team Section End */
 
+@media (max-width:1199px) {
+    .team-top-margin {
+        margin-top: 55px;
+    }
+}
+
 /* <-----------------------Screen = B/w 768px End-----------------------> */
 
 /* <-----------------------Screen = B/w 992px Start-----------------------> */
